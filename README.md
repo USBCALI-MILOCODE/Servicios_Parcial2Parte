@@ -1,5 +1,5 @@
 
 # Parcial 2, parte 2.
 
-Microservicios Common y Estudiante.
+Microservicios Common y Gateway.
 
